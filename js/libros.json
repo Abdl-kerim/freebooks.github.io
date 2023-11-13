@@ -1,0 +1,380 @@
+{
+    "totalResults": 74,
+    "articulos": [
+      {
+        "id": "art_1",
+        "nombre": "Wireshark Fundamentals Vinit Jain Apress",
+        "isbn": "9781-484-28001-0"
+      },
+      {
+        "id": "art_2",
+        "nombre": "Introduction to the Theory of Computation 3rd Edition",
+        "isbn": " 9781-133-18779-0"
+      },
+      {
+        "id": "art_3",
+        "nombre": "Software Development From A to Z Olga Filipova Rui Vilao Apress",
+        "isbn": "9781-484-23944-5"
+      },
+      {
+        "id": "art_4",
+        "nombre": "Software Development Design and Coding John F Dooley Apress",
+        "isbn": "9781-484-23152-4"
+      },
+      {
+        "id": "art_5",
+        "nombre": "Pearson Agile Software Development Principles Patterns and Practices",
+        "isbn": "9781-292-02594-0"
+      },
+      {
+        "id": "art_6",
+        "nombre": "Designing Software Architectures A Practical Approach by Humberto Cervantes Rick Kazman Addison Wesley",
+        "isbn": "9780-134-39078-9"
+      },
+      {
+        "id": "art_7",
+        "nombre": "Agile Technical Practices Distilled Gioia Consolaro Santos Packt",
+        "isbn": "9781-838-98084-9"
+      },
+      {
+        "id": "art_8",
+        "nombre": "Software Architecture The Hard Parts Neal Ford OReilly",
+        "isbn": "9781-492-08689-5"
+      },
+      {
+        "id": "art_9",
+        "nombre": "Data and Computer Communications 10th Edition",
+        "isbn": "978-0-13-350648-8"
+      },
+      {
+        "id": "art_10",
+        "nombre": "Cryptography and Network Security Global Edition 8th Edition William Stallings Pearson 2023",
+        "isbn": "978-1-292-43748-4"
+      },
+      {
+        "id": "art_11",
+        "nombre": "Computer Networks A Systems Approach 6th Edition by Bruce S Davie Larry L Peterson Morgan Kaufmann",
+        "isbn": "978-0-12-818200-0"
+      },
+      {
+        "id": "art_12",
+        "nombre": "Computer Networking A Top Down Approach 8th Edition by James F Kurose Keith W Ross Pearson",
+        "isbn": "978-0136681557"
+      },
+      {
+        "id": "art_13",
+        "nombre": "The Programmers Brain Felienne Hermans Manning",
+        "isbn": "978-1617298677"
+      },
+      {
+        "id": "art_14",
+        "nombre": "Manning OpenStack in Action",
+        "isbn": "978-1617292163"
+      },
+      {
+        "id": "art_15",
+        "nombre": "NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistence",
+        "isbn": "978-0-321-82662-6"
+      },
+      {
+        "id": "art_16",
+        "nombre": "NoSQL Data Models Trends And Challenges",
+        "isbn": "978-1-78630-364-6"
+      },
+      {
+        "id": "art_17",
+        "nombre": "Hands on Machine Learning with JavaScript Burak Kanber Packt",
+        "isbn": "978-1-78899-824-6"
+      },
+      {
+        "id": "art_18",
+        "nombre": "Domain Driven Laravel by Jesse Griffin Apress",
+        "isbn": "978-1-4842-6022-7"
+      },
+      {
+        "id": "art_19",
+        "nombre": "Mastering JavaScript Functional Programming 2nd Edition",
+        "isbn": "978-1-83921-306-9"
+      },
+      {
+        "id": "art_20",
+        "nombre": "JavaScript Domain Driven Design",
+        "isbn": "978-1-78439-432-5"
+      },
+      {
+        "id": "art_21",
+        "nombre": "Manning HTTP2 in Action",
+        "isbn": "9781617295164"
+      },
+      {
+        "id": "art_22",
+        "nombre": "HTTP The Definitive Guide Brian Totty David Gourley OReilly",
+        "isbn": "978-1-56592-509-0"
+      },
+      {
+        "id": "art_23",
+        "nombre": "Packt Mastering Go",
+        "isbn": "978-1-78862-654-5"
+      },
+      {
+        "id": "art_24",
+        "nombre": "Black Hat Go by Chris Patten Dan Kottmann Tom Steele No Starch Press",
+        "isbn": "9781593278656"
+      },
+      {
+        "id": "art_25",
+        "nombre": "Physics for JavaScript Games",
+        "isbn": "978-1-4302-6338-8"
+      },
+      {
+        "id": "art_26",
+        "nombre": "Game Engine Architecture Third Edition by Jason Gregory CRC Press",
+        "isbn": "978-1-1380-3545-4"
+      },
+      {
+        "id": "art_27",
+        "nombre": "Foundations of Game Engine Development Volume 1 Mathematics by Eric Lengyel Terathon Software",
+        "isbn": "978-0-9858117-4-7"
+      },
+      {
+        "id": "art_28",
+        "nombre": "Foundations of Game Engine Development Volume 2 Rendering by Eric Lengyel Terathon Software",
+        "isbn": "978-0-9858117-5-4"
+      },
+      {
+        "id": "art_29",
+        "nombre": "Apress Pro HTML5 Games Dec 2012",
+        "isbn": "978-1430247104"
+      },
+      {
+        "id": "art_30",
+        "nombre": "CRC A First Course in Fuzzy Logic",
+        "isbn": "978-1-138-58508-9"
+      },
+      {
+        "id": "art_31",
+        "nombre": "Packt Elasticsearch Server 3rd Edition",
+        "isbn": "978-1-78588-881-6"
+      },
+      {
+        "id": "art_32",
+        "nombre": "pro agile net development with scrum",
+        "isbn": "978-1-4302-3534-7"
+      },
+      {
+        "id": "art_33",
+        "nombre": "Apps and Services with NET 7 Mark J Price Packt",
+        "isbn": "978-1-80181-343-3"
+      },
+      {
+        "id": "art_34",
+        "nombre": "Docker Up and Running Shipping Reliable Containers in Production 2nd Edition",
+        "isbn": "978-1-492-03673-9"
+      },
+      {
+        "id": "art_35",
+        "nombre": "Docker in Action Second Edition",
+        "isbn": "9781617294761"
+      },
+      {
+        "id": "art_36",
+        "nombre": "Django for Professionals 4 0 William S Vincent Welcome To Code",
+        "isbn": "9781735467238"
+      },
+      {
+        "id": "art_37",
+        "nombre": "Django for Beginners Build websites with Python and Django 4 0 William S Vincent Welcome To Code",
+        "isbn": "9781735467207"
+      },
+      {
+        "id": "art_38",
+        "nombre": "Django for APIs 4 0 William S Vincent Welcome To Code",
+        "isbn": "9781735467221"
+      },
+      {
+        "id": "art_39",
+        "nombre": "Django 4 By Example 4th Edition Antonio Mele Bob Belderbos Packt",
+        "isbn": "978180181301"
+      },
+      {
+        "id": "art_40",
+        "nombre": "Django 3 Web Development Cookbook 4th Edition Packt Aidas Bendoraitis Jake Kronika",
+        "isbn": "1838987428"
+      },
+      {
+        "id": "art_41",
+        "nombre": "Deep Learning for Coders with fastai and PyTorch Howard Gugger OReilly",
+        "isbn": "9781492045526"
+      },
+      {
+        "id": "art_42",
+        "nombre": "Hands On Data Structures and Algorithms with Python 2nd Edition Benjamin Baka Dr Basant Agarwal Packt",
+        "isbn": "1788995570"
+      },
+      {
+        "id": "art_43",
+        "nombre": "Data Science for Business by Foster Provost Tom Fawcett O Reilly",
+        "isbn": "9781449361327"
+      },
+      {
+        "id": "art_44",
+        "nombre": "Cambridge University Press Data Mining and Data Warehousing",
+        "isbn": ""
+      },
+      {
+        "id": "art_45",
+        "nombre": "Introducing Distributed Application Runtime Dapr Radoslav Gatev Apress",
+        "isbn": "9781484269978"
+      },
+      {
+        "id": "art_46",
+        "nombre": "CSharp 11 and NET 7 Modern Cross Platform Development Fundamentals 7th Edition Mark J Price Packt",
+        "isbn": "9781803237800"
+      },
+      {
+        "id": "art_47",
+        "nombre": "The Art of Immutable Architecture Michael L Perry Apress",
+        "isbn": "9781484259542"
+      },
+      {
+        "id": "art_48",
+        "nombre": "Infrastructure as Code 2nd Edition Kief Morris OReilly",
+        "isbn": "978-1-098-11467-1"
+      },
+      {
+        "id": "art_49",
+        "nombre": "Architecting for Scale High Availability for Your Growing Application",
+        "isbn": "978-1-491-94339-7"
+      },
+      {
+        "id": "art_50",
+        "nombre": "Architecting for Scale 2nd Edition Lee Atchison OReilly",
+        "isbn": "9781492057178"
+      },
+      {
+        "id": "art_51",
+        "nombre": "Extreme C",
+        "isbn": "978-1-78934-362-5"
+      },
+      {
+        "id": "art_52",
+        "nombre": "Effective C An Introduction to Professional C Programming by Robert C Seacord No Starch Press",
+        "isbn": "9781718501041"
+      },
+      {
+        "id": "art_53",
+        "nombre": "C How to Program 9th Edition Paul Deitel Pearson",
+        "isbn": "9780137398393"
+      },
+      {
+        "id": "art_54",
+        "nombre": "Packt Practical Business Intelligence",
+        "isbn": "978-1-78588-543-3"
+      },
+      {
+        "id": "art_55",
+        "nombre": "Building Telegram Bots Develop Bots in 12 Programming Languages using the TelegramBot API",
+        "isbn": "978-1-4842-4196-7"
+      },
+      {
+        "id": "art_56",
+        "nombre": "Building Bots with Microsoft Bot Framework nodrm",
+        "isbn": "978-1-78646-310-4"
+      },
+      {
+        "id": "art_57",
+        "nombre": "Apress Developing Bots with Microsoft Bots Framework",
+        "isbn": "978-1-4842-3311-5"
+      },
+      {
+        "id": "art_58",
+        "nombre": "Packt Mastering Blockchain",
+        "isbn": "978-1-78712-544-5"
+      },
+      {
+        "id": "art_59",
+        "nombre": "blockchain basics",
+        "isbn": "978-87-403-3507-1"
+      },
+      {
+        "id": "art_60",
+        "nombre": "Mastering Ethereum Andreas M Antonopoulos",
+        "isbn": "978-1-491-97194-9"
+      },
+      {
+        "id": "art_60",
+        "nombre": "Oreilly Mastering Bitcoin Unlocking Digital Cryptocurrencies",
+        "isbn": "978-1-491-95438-6"
+      },
+      {
+        "id": "art_61",
+        "nombre": "Bitcoin and Cryptocurrency Technologies Princeton 2016",
+        "isbn": "978-0-691-17169-2"
+      },
+      {
+        "id": "art_62",
+        "nombre": "Web Development with Blazor 2nd Edition Jimmy Engstrom Packt",
+        "isbn": "9781803241494"
+      },
+      {
+        "id": "art_63",
+        "nombre": "Pearson Database Systems A Practical Approach to Design Implementation and Management 6th Global Edition",
+        "isbn": "978-1-292-06118-4"
+      },
+      {
+        "id": "art_64",
+        "nombre": "Fundamentals of Database Systems 7th Edition",
+        "isbn": "978-0-13-397077-7"
+      },
+      {
+        "id": "art_65",
+        "nombre": "Cengage Learning Database Systems 13th Edition",
+        "isbn": "978-1-337-68882-6"
+      },
+      {
+        "id": "art_66",
+        "nombre": "Introduction to Computer Organization Robert Plantz No Starch Press",
+        "isbn": "978-1-7185-0009-9"
+      },
+      {
+        "id": "art_67",
+        "nombre": "ASP NET Core in Action Third Edition",
+        "isbn": "9781617294617"
+      },
+      {
+        "id": "art_68",
+        "nombre": "Ultimate ASP NET Core Web API Marinko Spasojevic Vladimir Pecanac CodeMaze",
+        "isbn": "Paper sin isbn"
+      },
+      {
+        "id": "art_69",
+        "nombre": "Artificial Intelligence A Modern Approach Global Edition 4th Edition Peter Norvig Stuart Russell Pearson",
+        "isbn": "9781292401133"
+      },
+      {
+        "id": "art_70",
+        "nombre": "Artificial Intelligence A Modern Approach 4th Edition Peter Norvig Stuart Russell Pearson",
+        "isbn": "9780134610993"
+      },
+      {
+        "id": "art_71",
+        "nombre": "Software Architecture by Example Paul Michaels Apress",
+        "isbn": "9781484279892"
+      },
+      {
+        "id": "art 72",
+        "nombre": "Pro Angular 5th Edition Apress",
+        "isbn": "9781484281758"
+      },
+      {
+        "id": "art 73",
+        "nombre": "Learning Angular 4th Edition Aristeidis Bampakos Packt",
+        "isbn": "9781803240602"
+      },
+      {
+        "id": "art_74",
+        "nombre": "Mastering ABP Framework Halil ibrahim Kalkan Packt",
+        "isbn": "9781801079242"
+      }
+    ]
+}
