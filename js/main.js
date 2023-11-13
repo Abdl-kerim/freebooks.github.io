@@ -62,8 +62,7 @@ xmlhttp.onload = function() {
             d.querySelector(`#i_${ez}`).appendChild(crea_a);
             d.querySelector(`#i_${ez}`).lastElementChild.textContent = 'Descargar';
             d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('class', 'links links_dia');
-            //d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('href', `${obj.articulos[ez].url}`);
-            //Subir los pdf al github, y ya luego añadirlos al json
+            d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('href', `${obj.articulos[ez].url}`);
             d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('download', '');
     }
 }
