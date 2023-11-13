@@ -4,377 +4,452 @@
       {
         "id": "art_1",
         "nombre": "Wireshark Fundamentals Vinit Jain Apress",
-        "isbn": "9781-484-28001-0"
+        "isbn": "9781-484-28001-0",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/WireShark/Wireshark_Fundamentals_Vinit_Jain_Apress_9781484280010.pdf"
       },
       {
         "id": "art_2",
         "nombre": "Introduction to the Theory of Computation 3rd Edition",
-        "isbn": " 9781-133-18779-0"
+        "isbn": " 9781-133-18779-0",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Theory_of_Computation/Introduction_to_the_Theory_of_Computation_3rd_Edition.pdf"
       },
       {
         "id": "art_3",
         "nombre": "Software Development From A to Z Olga Filipova Rui Vilao Apress",
-        "isbn": "9781-484-23944-5"
+        "isbn": "9781-484-23944-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Software_Development_Design/Software_Development_From_A_to_Z_Olga_Filipova_Rui_Vilao_Apress_9781484239445.pdf"
       },
       {
         "id": "art_4",
         "nombre": "Software Development Design and Coding John F Dooley Apress",
-        "isbn": "9781-484-23152-4"
+        "isbn": "9781-484-23152-4",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Software_Development_Design/Software_Development_Design_and_Coding_John_F_Dooley_Apress_9781484231524.pdf"
       },
       {
         "id": "art_5",
         "nombre": "Pearson Agile Software Development Principles Patterns and Practices",
-        "isbn": "9781-292-02594-0"
+        "isbn": "9781-292-02594-0",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Software_Development_Design/Pearson_Agile_Software_Development_Principles_Patterns_and_Practices.pdf"
       },
       {
         "id": "art_6",
         "nombre": "Designing Software Architectures A Practical Approach by Humberto Cervantes Rick Kazman Addison Wesley",
-        "isbn": "9780-134-39078-9"
+        "isbn": "9780-134-39078-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Software_Development_Design/Designing_Software_Architectures_A_Practical_Approach_by_Humberto_Cervantes_Rick_Kazman_Addison_Wesley_9780134390789.pdf"
       },
       {
         "id": "art_7",
         "nombre": "Agile Technical Practices Distilled Gioia Consolaro Santos Packt",
-        "isbn": "9781-838-98084-9"
+        "isbn": "9781-838-98084-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Software_Development_Design/Agile_Technical_Practices_Distilled_Gioia_Consolaro_Santos_Packt_9781838980849.pdf"
       },
       {
         "id": "art_8",
         "nombre": "Software Architecture The Hard Parts Neal Ford OReilly",
-        "isbn": "9781-492-08689-5"
+        "isbn": "9781-492-08689-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Software_Architecture/Software_Architecture_The_Hard_Parts_Neal_Ford_OReilly_9781492086895.pdf"
       },
       {
         "id": "art_9",
         "nombre": "Data and Computer Communications 10th Edition",
-        "isbn": "978-0-13-350648-8"
+        "isbn": "978-0-13-350648-8",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Redes/Data_and_Computer_Communications_10th_Edition.pdf"
       },
       {
         "id": "art_10",
         "nombre": "Cryptography and Network Security Global Edition 8th Edition William Stallings Pearson 2023",
-        "isbn": "978-1-292-43748-4"
+        "isbn": "978-1-292-43748-4",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Redes/Cryptography_and_Network_Security_Global_Edition_8th_Edition_William_Stallings_Pearson_9781292437484.pdf"
       },
       {
         "id": "art_11",
         "nombre": "Computer Networks A Systems Approach 6th Edition by Bruce S Davie Larry L Peterson Morgan Kaufmann",
-        "isbn": "978-0-12-818200-0"
+        "isbn": "978-0-12-818200-0",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Redes/Computer_Networks_A_Systems_Approach_6th_Edition_by_Bruce_S_Davie_Larry_L_Peterson_Morgan_Kaufmann_9780128182000.pdf"
       },
       {
         "id": "art_12",
         "nombre": "Computer Networking A Top Down Approach 8th Edition by James F Kurose Keith W Ross Pearson",
-        "isbn": "978-0136681557"
+        "isbn": "978-0136681557",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Redes/Computer_Networking_A_Top_Down_Approach_8th_Edition_by_James_F_Kurose_Keith_W_Ross_Pearson_9780136681557.pdf"
       },
       {
         "id": "art_13",
         "nombre": "The Programmers Brain Felienne Hermans Manning",
-        "isbn": "978-1617298677"
+        "isbn": "978-1617298677",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Psicologia_Programador/The_Programmers_Brain_Felienne_Hermans_Manning_9781617298677.pdf"
       },
       {
         "id": "art_14",
         "nombre": "Manning OpenStack in Action",
-        "isbn": "978-1617292163"
+        "isbn": "978-1617292163",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/OpenStack/Manning_OpenStack_in_Action.pdf"
       },
       {
         "id": "art_15",
         "nombre": "NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistence",
-        "isbn": "978-0-321-82662-6"
+        "isbn": "978-0-321-82662-6",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/NoSQL/NoSQL_Distilled_A_Brief_Guide_to_the_Emerging_World_of_Polyglot_Persistence.pdf"
       },
       {
         "id": "art_16",
         "nombre": "NoSQL Data Models Trends And Challenges",
-        "isbn": "978-1-78630-364-6"
+        "isbn": "978-1-78630-364-6",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/NoSQL/NoSQL_Data_Models_Trends_And_Challenges.pdf"
       },
       {
         "id": "art_17",
         "nombre": "Hands on Machine Learning with JavaScript Burak Kanber Packt",
-        "isbn": "978-1-78899-824-6"
+        "isbn": "978-1-78899-824-6",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Machine_Learning/Hands_on_Machine_Learning_with_JavaScript_Burak_Kanber_Packt_1788998243.pdf"
       },
       {
         "id": "art_18",
         "nombre": "Domain Driven Laravel by Jesse Griffin Apress",
-        "isbn": "978-1-4842-6022-7"
+        "isbn": "978-1-4842-6022-7",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Laravel/Domain_Driven_Laravel_by_Jesse_Griffin_Apress.pdf"
       },
       {
         "id": "art_19",
         "nombre": "Mastering JavaScript Functional Programming 2nd Edition",
-        "isbn": "978-1-83921-306-9"
+        "isbn": "978-1-83921-306-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/JavaScript/Mastering_JavaScript_Functional_Programming_2nd_Edition.pdf"
       },
       {
         "id": "art_20",
         "nombre": "JavaScript Domain Driven Design",
-        "isbn": "978-1-78439-432-5"
+        "isbn": "978-1-78439-432-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/JavaScript/JavaScript_Domain_Driven_Design.pdf"
       },
       {
         "id": "art_21",
         "nombre": "Manning HTTP2 in Action",
-        "isbn": "9781617295164"
+        "isbn": "9781617295164",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/HTTP/Manning_HTTP2_in_Action.pdf"
       },
       {
         "id": "art_22",
         "nombre": "HTTP The Definitive Guide Brian Totty David Gourley OReilly",
-        "isbn": "978-1-56592-509-0"
+        "isbn": "978-1-56592-509-0",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/HTTP/HTTP_The_Definitive_Guide_Brian_Totty_David_Gourley_OReilly_9781565925090.pdf"
       },
       {
         "id": "art_23",
         "nombre": "Packt Mastering Go",
-        "isbn": "978-1-78862-654-5"
+        "isbn": "978-1-78862-654-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Go/Packt_Mastering_Go.pdf"
       },
       {
         "id": "art_24",
         "nombre": "Black Hat Go by Chris Patten Dan Kottmann Tom Steele No Starch Press",
-        "isbn": "9781593278656"
+        "isbn": "9781593278656",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Go/Black_Hat_Go_by_Chris_Patten_Dan_Kottmann_Tom_Steele_No_Starch_Press_9781593278656.pdf"
       },
       {
         "id": "art_25",
         "nombre": "Physics for JavaScript Games",
-        "isbn": "978-1-4302-6338-8"
+        "isbn": "978-1-4302-6338-8",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Game%20Development/Physics_for_JavaScript_Games.pdf"
       },
       {
         "id": "art_26",
         "nombre": "Game Engine Architecture Third Edition by Jason Gregory CRC Press",
-        "isbn": "978-1-1380-3545-4"
+        "isbn": "978-1-1380-3545-4",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Game%20Development/Game_Engine_Architecture_Third_Edition_by_Jason_Gregory_CRC_Press.pdf"
       },
       {
         "id": "art_27",
         "nombre": "Foundations of Game Engine Development Volume 1 Mathematics by Eric Lengyel Terathon Software",
-        "isbn": "978-0-9858117-4-7"
+        "isbn": "978-0-9858117-4-7",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Game%20Development/Foundations_of_Game_Engine_Development_Volume_1_Mathematics_by_Eric_Lengyel_Terathon_Software.pdf"
       },
       {
         "id": "art_28",
         "nombre": "Foundations of Game Engine Development Volume 2 Rendering by Eric Lengyel Terathon Software",
-        "isbn": "978-0-9858117-5-4"
+        "isbn": "978-0-9858117-5-4",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Game%20Development/Foundations_of_Game_Engine_Development_Volume_2_Rendering_by_Eric_Lengyel_Terathon_Software.pdf"
       },
       {
         "id": "art_29",
         "nombre": "Apress Pro HTML5 Games Dec 2012",
-        "isbn": "978-1430247104"
+        "isbn": "978-1430247104",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Game%20Development/Apress_Pro_HTML5_Games_Dec_2012.pdf"
       },
       {
         "id": "art_30",
         "nombre": "CRC A First Course in Fuzzy Logic",
-        "isbn": "978-1-138-58508-9"
+        "isbn": "978-1-138-58508-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Fuzzy%20Logic/CRC_A_First_Course_in_Fuzzy_Logic.pdf"
       },
       {
         "id": "art_31",
         "nombre": "Packt Elasticsearch Server 3rd Edition",
-        "isbn": "978-1-78588-881-6"
+        "isbn": "978-1-78588-881-6",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/ElasticSearch/Packt_Elasticsearch_Server_3rd_Edition.pdf"
       },
       {
         "id": "art_32",
         "nombre": "pro agile net development with scrum",
-        "isbn": "978-1-4302-3534-7"
+        "isbn": "978-1-4302-3534-7",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Dot_NET/pro_agile_net_development_with_scrum.pdf"
       },
       {
         "id": "art_33",
         "nombre": "Apps and Services with NET 7 Mark J Price Packt",
-        "isbn": "978-1-80181-343-3"
+        "isbn": "978-1-80181-343-3",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Dot_NET/Apps_and_Services_with_NET_7_Mark_J_Price_Packt_9781801813433.pdf"
       },
       {
         "id": "art_34",
         "nombre": "Docker Up and Running Shipping Reliable Containers in Production 2nd Edition",
-        "isbn": "978-1-492-03673-9"
+        "isbn": "978-1-492-03673-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Docker/Docker_in_Action_Second_Edition.pdf"
       },
       {
         "id": "art_35",
         "nombre": "Docker in Action Second Edition",
-        "isbn": "9781617294761"
+        "isbn": "9781617294761",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Docker/Docker_Up_and_Running_Shipping_Reliable_Containers_in_Production_2nd_Edition.pdf"
       },
       {
         "id": "art_36",
         "nombre": "Django for Professionals 4 0 William S Vincent Welcome To Code",
-        "isbn": "9781735467238"
+        "isbn": "9781735467238",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Django/Django_for_Professionals_4_0_William_S_Vincent_Welcome_To_Code_9781735467238.pdf"
       },
       {
         "id": "art_37",
         "nombre": "Django for Beginners Build websites with Python and Django 4 0 William S Vincent Welcome To Code",
-        "isbn": "9781735467207"
+        "isbn": "9781735467207",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Django/Django_for_Beginners_Build_websites_with_Python_and_Django_4_0_William_S_Vincent_Welcome_To_Code_9781735467207.pdf"
       },
       {
         "id": "art_38",
         "nombre": "Django for APIs 4 0 William S Vincent Welcome To Code",
-        "isbn": "9781735467221"
+        "isbn": "9781735467221",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Django/Django_for_APIs_4_0_William_S_Vincent_Welcome_To_Code_9781735467221.pdf"
       },
       {
         "id": "art_39",
         "nombre": "Django 4 By Example 4th Edition Antonio Mele Bob Belderbos Packt",
-        "isbn": "978180181301"
+        "isbn": "978180181301",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Django/Django_4_By_Example_4th_Edition_Antonio_Mele_Bob_Belderbos_Packt_978180181301.pdf"
       },
       {
         "id": "art_40",
         "nombre": "Django 3 Web Development Cookbook 4th Edition Packt Aidas Bendoraitis Jake Kronika",
-        "isbn": "1838987428"
+        "isbn": "1838987428",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Django/Django_3_Web_Development_Cookbook_4th_Edition_Packt_Aidas_Bendoraitis_Jake_Kronika_1838987428.pdf"
       },
       {
         "id": "art_41",
         "nombre": "Deep Learning for Coders with fastai and PyTorch Howard Gugger OReilly",
-        "isbn": "9781492045526"
+        "isbn": "9781492045526",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Deep_Learning/Deep_Learning_for_Coders_with_fastai_and_PyTorch_Howard_Gugger_OReilly_9781492045526.pdf"
       },
       {
         "id": "art_42",
         "nombre": "Hands On Data Structures and Algorithms with Python 2nd Edition Benjamin Baka Dr Basant Agarwal Packt",
-        "isbn": "1788995570"
+        "isbn": "1788995570",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Data_Structures_and_Algorithms/Hands_On_Data_Structures_and_Algorithms_with_Python_2nd_Edition_Benjamin_Baka_Dr_Basant_Agarwal_Packt_1788995570.pdf"
       },
       {
         "id": "art_43",
         "nombre": "Data Science for Business by Foster Provost Tom Fawcett O Reilly",
-        "isbn": "9781449361327"
+        "isbn": "9781449361327",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Data_Science/Data_Science_for_Business_by_Foster_Provost_Tom_Fawcett_O_Reilly_9781449361327.pdf"
       },
       {
         "id": "art_44",
         "nombre": "Cambridge University Press Data Mining and Data Warehousing",
-        "isbn": ""
+        "isbn": "978-1108727747",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Data_Mining/Cambridge_University_Press_Data_Mining_and_Data_Warehousing.pdf"
       },
       {
         "id": "art_45",
         "nombre": "Introducing Distributed Application Runtime Dapr Radoslav Gatev Apress",
-        "isbn": "9781484269978"
+        "isbn": "9781484269978",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/DAPR/Introducing_Distributed_Application_Runtime_Dapr_Radoslav_Gatev_Apress_9781484269978.pdf"
       },
       {
         "id": "art_46",
         "nombre": "CSharp 11 and NET 7 Modern Cross Platform Development Fundamentals 7th Edition Mark J Price Packt",
-        "isbn": "9781803237800"
+        "isbn": "9781803237800",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/CSHARP/CSharp_11_and_NET_7_Modern_Cross_Platform_Development_Fundamentals_7th_Edition_Mark_J_Price_Packt_9781803237800.pdf"
       },
       {
         "id": "art_47",
         "nombre": "The Art of Immutable Architecture Michael L Perry Apress",
-        "isbn": "9781484259542"
+        "isbn": "9781484259542",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Computer_Architecture/The_Art_of_Immutable_Architecture_Michael_L_Perry_Apress_9781484259542.pdf"
       },
       {
         "id": "art_48",
         "nombre": "Infrastructure as Code 2nd Edition Kief Morris OReilly",
-        "isbn": "978-1-098-11467-1"
+        "isbn": "978-1-098-11467-1",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Cloud/Infrastructure_as_Code_2nd_Edition_Kief_Morris_OReilly.pdf"
       },
       {
         "id": "art_49",
         "nombre": "Architecting for Scale High Availability for Your Growing Application",
-        "isbn": "978-1-491-94339-7"
+        "isbn": "978-1-491-94339-7",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Cloud/Architecting_for_Scale_High_Availability_for_Your_Growing_Application.pdf"
       },
       {
         "id": "art_50",
         "nombre": "Architecting for Scale 2nd Edition Lee Atchison OReilly",
-        "isbn": "9781492057178"
+        "isbn": "9781492057178",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Cloud/Architecting_for_Scale_2nd_Edition_Lee_Atchison_OReilly_9781492057178.pdf"
       },
       {
         "id": "art_51",
         "nombre": "Extreme C",
-        "isbn": "978-1-78934-362-5"
+        "isbn": "978-1-78934-362-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/C/Extreme_C.pdf"
       },
       {
         "id": "art_52",
         "nombre": "Effective C An Introduction to Professional C Programming by Robert C Seacord No Starch Press",
-        "isbn": "9781718501041"
+        "isbn": "9781718501041",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/C/Effective_C_An_Introduction_to_Professional_C_Programming_by_Robert_C_Seacord_No_Starch_Press_9781718501041.pdf"
       },
       {
         "id": "art_53",
         "nombre": "C How to Program 9th Edition Paul Deitel Pearson",
-        "isbn": "9780137398393"
+        "isbn": "9780137398393",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/C/C_How_to_Program_9th_Edition_Paul_Deitel_Pearson_9780137398393.pdf"
       },
       {
         "id": "art_54",
         "nombre": "Packt Practical Business Intelligence",
-        "isbn": "978-1-78588-543-3"
+        "isbn": "978-1-78588-543-3",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Bussiness_Intelligence/Packt_Practical_Business_Intelligence.pdf"
       },
       {
         "id": "art_55",
         "nombre": "Building Telegram Bots Develop Bots in 12 Programming Languages using the TelegramBot API",
-        "isbn": "978-1-4842-4196-7"
+        "isbn": "978-1-4842-4196-7",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Bots/Building_Telegram_Bots_Develop_Bots_in_12_Programming_Languages_using_the_TelegramBot_API.pdf"
       },
       {
         "id": "art_56",
         "nombre": "Building Bots with Microsoft Bot Framework nodrm",
-        "isbn": "978-1-78646-310-4"
+        "isbn": "978-1-78646-310-4",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Bots/Building_Bots_with_Microsoft_Bot_Framework_nodrm.pdf"
       },
       {
         "id": "art_57",
         "nombre": "Apress Developing Bots with Microsoft Bots Framework",
-        "isbn": "978-1-4842-3311-5"
+        "isbn": "978-1-4842-3311-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Bots/Apress_Developing_Bots_with_Microsoft_Bots_Framework.pdf"
       },
       {
         "id": "art_58",
         "nombre": "Packt Mastering Blockchain",
-        "isbn": "978-1-78712-544-5"
+        "isbn": "978-1-78712-544-5",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/BlockChain_y_Mas/Packt_Mastering_Blockchain.pdf"
       },
       {
         "id": "art_59",
         "nombre": "blockchain basics",
-        "isbn": "978-87-403-3507-1"
+        "isbn": "978-87-403-3507-1",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/BlockChain_y_Mas/blockchain_basics.pdf"
       },
       {
         "id": "art_60",
         "nombre": "Mastering Ethereum Andreas M Antonopoulos",
-        "isbn": "978-1-491-97194-9"
+        "isbn": "978-1-491-97194-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/BlockChain_y_Mas/Ethereum/Mastering_Ethereum_Andreas_M_Antonopoulos.pdf"
       },
       {
         "id": "art_60",
         "nombre": "Oreilly Mastering Bitcoin Unlocking Digital Cryptocurrencies",
-        "isbn": "978-1-491-95438-6"
+        "isbn": "978-1-491-95438-6",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/BlockChain_y_Mas/Bitcoin/Oreilly_Mastering_Bitcoin_Unlocking_Digital_Cryptocurrencies.pdf"
       },
       {
         "id": "art_61",
         "nombre": "Bitcoin and Cryptocurrency Technologies Princeton 2016",
-        "isbn": "978-0-691-17169-2"
+        "isbn": "978-0-691-17169-2",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/BlockChain_y_Mas/Bitcoin/Bitcoin_and_Cryptocurrency_Technologies_Princeton_2016.pdf"
       },
       {
         "id": "art_62",
         "nombre": "Web Development with Blazor 2nd Edition Jimmy Engstrom Packt",
-        "isbn": "9781803241494"
+        "isbn": "9781803241494",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Blazor/Web_Development_with_Blazor_2nd_Edition_Jimmy_Engstrom_Packt_9781803241494.pdf"
       },
       {
         "id": "art_63",
         "nombre": "Pearson Database Systems A Practical Approach to Design Implementation and Management 6th Global Edition",
-        "isbn": "978-1-292-06118-4"
+        "isbn": "978-1-292-06118-4",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Base_de_Datos/Pearson_Database_Systems_A_Practical_Approach_to_Design_Implementation_and_Management_6th_Global_Edition.pdf"
       },
       {
         "id": "art_64",
         "nombre": "Fundamentals of Database Systems 7th Edition",
-        "isbn": "978-0-13-397077-7"
+        "isbn": "978-0-13-397077-7",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Base_de_Datos/Fundamentals_of_Database_Systems_7th_Edition.pdf"
       },
       {
         "id": "art_65",
         "nombre": "Cengage Learning Database Systems 13th Edition",
-        "isbn": "978-1-337-68882-6"
+        "isbn": "978-1-337-68882-6",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Base_de_Datos/Cengage_Learning_Database_Systems_13th_Edition.pdf"
       },
       {
         "id": "art_66",
         "nombre": "Introduction to Computer Organization Robert Plantz No Starch Press",
-        "isbn": "978-1-7185-0009-9"
+        "isbn": "978-1-7185-0009-9",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Assembly/Introduction_to_Computer_Organization_Robert_Plantz_No_Starch_Press.pdf"
       },
       {
         "id": "art_67",
         "nombre": "ASP NET Core in Action Third Edition",
-        "isbn": "9781617294617"
+        "isbn": "9781617294617",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/ASP_NET/ASP_NET_Core_in_Action_Third_Edition.pdf"
       },
       {
         "id": "art_68",
         "nombre": "Ultimate ASP NET Core Web API Marinko Spasojevic Vladimir Pecanac CodeMaze",
-        "isbn": "Paper sin isbn"
+        "isbn": "Paper sin isbn",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/ASP_NET/Ultimate_ASP_NET_Core_Web_API_Marinko_Spasojevic_Vladimir_Pecanac_CodeMaze.pdf"
       },
       {
         "id": "art_69",
         "nombre": "Artificial Intelligence A Modern Approach Global Edition 4th Edition Peter Norvig Stuart Russell Pearson",
-        "isbn": "9781292401133"
+        "isbn": "9781292401133",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Artificial_Intelligence/Artificial_Intelligence_A_Modern_Approach_Global_Edition_4th_Edition_Peter_Norvig_Stuart_Russell_Pearson_9781292401133.pdf"
       },
       {
         "id": "art_70",
         "nombre": "Artificial Intelligence A Modern Approach 4th Edition Peter Norvig Stuart Russell Pearson",
-        "isbn": "9780134610993"
+        "isbn": "9780134610993",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Artificial_Intelligence/Artificial_Intelligence_A_Modern_Approach_4th_Edition_Peter_Norvig_Stuart_Russell_Pearson_9780134610993.pdf"
       },
       {
         "id": "art_71",
         "nombre": "Software Architecture by Example Paul Michaels Apress",
-        "isbn": "9781484279892"
+        "isbn": "9781484279892",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/ArquitecturaSoftware/Software_Architecture_by_Example_Paul_Michaels_Apress_9781484279892.pdf"
       },
       {
         "id": "art 72",
         "nombre": "Pro Angular 5th Edition Apress",
-        "isbn": "9781484281758"
+        "isbn": "9781484281758",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Angular/Pro_Angular_5th_Edition_Apress_9781484281758.pdf"
       },
       {
         "id": "art 73",
         "nombre": "Learning Angular 4th Edition Aristeidis Bampakos Packt",
-        "isbn": "9781803240602"
+        "isbn": "9781803240602",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Angular/Learning_Angular_4th_Edition_Aristeidis_Bampakos_Packt_9781803240602.pdf"
       },
       {
         "id": "art_74",
         "nombre": "Mastering ABP Framework Halil ibrahim Kalkan Packt",
-        "isbn": "9781801079242"
+        "isbn": "9781801079242",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/ABP_Framework/Mastering_ABP_Framework_Halil_ibrahim_Kalkan_Packt_9781801079242.pdf"
       }
     ]
 }
