@@ -1,10 +1,10 @@
 {
-    "totalResults": 74,
+    "totalResults": 146,
     "articulos": [
       {
         "id": "art_1",
         "nombre": "Wireshark Fundamentals Vinit Jain Apress",
-        "isbn": "9781-484-28001-0",
+        "isbn": "9781484280010",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/WireShark/Wireshark_Fundamentals_Vinit_Jain_Apress_9781484280010.pdf",
         "portada_libro": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61mVHLugpVL._SY522_.jpg"
       },
@@ -506,14 +506,14 @@
         "portada_libro": "https://m.media-amazon.com/images/I/71aSIS6uC2L._AC_UL480_FMwebp_QL65_.jpg"
       },
       {
-        "id": "art 73",
+        "id": "art_73",
         "nombre": "Pro Angular 5th Edition Apress",
         "isbn": "9781484281758",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Angular/Pro_Angular_5th_Edition_Apress_9781484281758.pdf",
         "portada_libro": "https://m.media-amazon.com/images/I/81L+RQcWfZL._AC_UY327_FMwebp_QL65_.jpg"
       },
       {
-        "id": "art 74",
+        "id": "art_74",
         "nombre": "Learning Angular 4th Edition Aristeidis Bampakos Packt",
         "isbn": "9781803240602",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Angular/Learning_Angular_4th_Edition_Aristeidis_Bampakos_Packt_9781803240602.pdf",
@@ -525,6 +525,503 @@
         "isbn": "9781801079242",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/ABP_Framework/Mastering_ABP_Framework_Halil_ibrahim_Kalkan_Packt_9781801079242.pdf",
         "portada_libro": "https://m.media-amazon.com/images/I/61mIuHEHvGL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_76",
+        "nombre": "Addison Wesley Essential Scrum Jul 2012",
+        "isbn": "9780137043293",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/SCRUM/Addison_Wesley_Essential_Scrum_Jul_2012.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/51Kvilq+FoL._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_77",
+        "nombre": "Addison Wesley Object Design Roles Responsibilities and Collaborations",
+        "isbn": "0201379430",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Object_Oriented_Programming/Addison_Wesley_Object_Design_Roles_Responsibilities_and_Collaborations_(Nov.2002).pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/51aIEoQQ1TL._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_78",
+        "nombre": "Advanced API Security 2nd Edition by Prabath Siriwardena Apress",
+        "isbn": "9781484220504",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/APIs/Advanced_API_Security_2nd_Edition_by_Prabath_Siriwardena_Apress_9781484220498.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61wt-+--LhL._SL1360_.jpg"
+      },
+      {
+        "id": "art_79",
+        "nombre": "Advanced JavaScript Zachary Shute Packt",
+        "isbn": "9781789800104",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/JavaScript/Advanced_JavaScript_Zachary_Shute_Packt_9781789800104.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71-AdY1o8cL._SY522_.jpg"
+      },
+      {
+        "id": "art_80",
+        "nombre": "API Design Patterns JJ Geewax Manning",
+        "isbn": "9781617295850",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/APIs/API_Design_Patterns_JJ_Geewax_Manning_9781617295850.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/410kbzM0QhL._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_81",
+        "nombre": "Apress Electron From Beginner to Pro",
+        "isbn": "9781484228265",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Electron/Apress_Electron_From_Beginner_to_Pro.pdf",
+        "portada_libro": "https://learning.oreilly.com/library/cover/9781484228265/250w/"
+      },
+      {
+        "id": "art_82",
+        "nombre": "Apress Frameworkless Front End Development",
+        "isbn": "9781484249666",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Frameworkless/Apress_Frameworkless_Front_End_Development.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/41r5QZBa5pL._SY445_SX342_.jpg"
+      },
+      {
+        "id": "art_83",
+        "nombre": "Apress Web Standards Mastering HTML5 CSS3 and XML 2nd Edition",
+        "isbn": "1484208846",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Web_Standard/Apress_Web_Standards_Mastering_HTML5_CSS3_and_XML_2nd_Edition_1484208846.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61-VtWLScLL._SY522_.jpg"
+      },
+      {
+        "id": "art_84",
+        "nombre": "AW Practical Object Oriented Design 2nd Edition",
+        "isbn": "9780134456478",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Object_Oriented_Programming/AW_Practical_Object_Oriented_Design_2nd_Edition.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/517HQizgu3L._SY445_SX342_.jpg"
+      },
+      {
+        "id": "art_85",
+        "nombre": "Becoming the Hacker Adrian Pruteanu",
+        "isbn": "9781788627962",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Hacking/Becoming_the_Hacker_Adrian_Pruteanu.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/416ALYjpQ2L._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_86",
+        "nombre": "Building Micro Frontends Luca Mezzalira OReilly",
+        "isbn": "9781492082996",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Micro_Frontend/Building_Micro_Frontends_Luca_Mezzalira_OReilly_9781492082996.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/41grVtwEFFL._SY445_SX342_.jpg"
+      },
+      {
+        "id": "art_87",
+        "nombre": "Design and Build Great Web APIs by Mike Amundsen Pragmatic Bookshelf",
+        "isbn": "9781680506808",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/APIs/Design_and_Build_Great_Web_APIs_by_Mike_Amundsen_Pragmatic_Bookshelf_9781680506808.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/515QDyNI2AL._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_88",
+        "nombre": "Designing APIs with Swagger and OpenAPI Ponelat Rosenstock Manning",
+        "isbn": "9781617296284",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/APIs/Designing_APIs_with_Swagger_and_OpenAPI_Ponelat_Rosenstock_Manning_9781617296284.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/4126pg7wcfL._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_89",
+        "nombre": "Designing Web APIs by Brenda Jin Saurabh Sahni Amir Shevat OReilly",
+        "isbn": "9781492026921",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/APIs/Designing_Web_APIs_by_Brenda_Jin_Saurabh_Sahni_Amir_Shevat_OReilly_9781492026921.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/51oE8QDWDfL._SY445_SX342_.jpg"
+      },
+      {
+        "id": "art_90",
+        "nombre": "Feature Engineering and Selection by Kjell Johnson Max Kuhn CRC",
+        "isbn": "9781138079229",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Predictive_Models/Feature_Engineering_and_Selection_by_Kjell_Johnson_Max_Kuhn_CRC_9781138079229.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/41n+EzWlXLL._SY445_SX342_.jpg"
+      },
+      {
+        "id": "art_91",
+        "nombre": "Fluent Python 2nd Edition Luciano Ramalho OReilly",
+        "isbn": "9781492056355",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Fluent_Python_2nd_Edition_Luciano_Ramalho_OReilly_9781492056355.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/411qhFCwczL._SY445_SX342_.jpg"
+      },
+      {
+        "id": "art_92",
+        "nombre": "Full Stack Python Security Dennis Byrne Manning",
+        "isbn": "9781617298820",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Full_Stack_Python_Security_Dennis_Byrne_Manning_9781617298820.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/413cnZYmH7L._SX342_SY445_.jpg"
+      },
+      {
+        "id": "art_93",
+        "nombre": "Handbook of Usability and User Experience Rebelo Soares Ahram CRC Press",
+        "isbn": "9780367357702",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/UX/Handbook_of_Usability_and-User_Experience_Rebelo_Soares_Ahram_CRC_Press_9780367357702.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71D+3ydI20L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_94",
+        "nombre": "Hands On Enterprise Application Development with Python",
+        "isbn": "9781789532364",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Hands_On_Enterprise_Application_Development_with_Python_PDF.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71fR8VCF6PL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_95",
+        "nombre": "Hands On Image Generation with TensorFlow by Soon Yau Cheong Packt",
+        "isbn": "9781838826789",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/TensorFlow/Hands_On_Image_Generation_with_TensorFlow_by_Soon_Yau_Cheong_Packt_9781838826789.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/810J6n2CtpL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_96",
+        "nombre": "Head First Object Oriented Analysis and Design by Brett D McLaughlin Dave West Gary Pollice O'Reilly",
+        "isbn": "9780596008673",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Object_Oriented_Programming/Head_First_Object_Oriented_Analysis_and_Design_by_Brett_D_McLaughlin_Dave_West_Gary_Pollice_O'Reilly_9780596008673.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91mi4Cysj-L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_97",
+        "nombre": "How to Get to the Top of Google Search",
+        "isbn": "Sin isbn",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/SEO/How_to_Get_to_the_Top_of_Google_Search.pdf",
+        "portada_libro": "data:image/png;base64,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"
+      },
+      {
+        "id": "art_98",
+        "nombre": "Imbalanced Classification with Python Jason Brownlee",
+        "isbn": "9798468452240",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Imbalanced_Classification_with_Python_Jason_Brownlee_9798468452240.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/518ImdAjuxL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_99",
+        "nombre": "Introducing Python Modern Computing in Simple Packages 2nd Edition Bill Lubanovic O'Reilly Media",
+        "isbn": "9781492051367",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Introducing_Python_Modern_Computing_in_Simple_Packages_2nd_Edition_Bill_Lubanovic_O'Reilly_Media_9781492051367.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/918T0PFW1BL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_100",
+        "nombre": "JavaScript for Web Warriors 7th Edition Patrick Carey Sasha Vodnik Cengage Learning",
+        "isbn": "9780357638002",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/JavaScript/JavaScript_for_Web_Warriors_7th_Edition_Patrick_Carey_Sasha_Vodnik_Cengage_Learning.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61DVu9M6aaL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_101",
+        "nombre": "JavaScript from Frontend to Backend Eric Sarrion Packt",
+        "isbn": "9781801070317",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/JavaScript/JavaScript_from_Frontend_to_Backend_Eric_Sarrion_Packt_9781801070317.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61G01VwbdCL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_102",
+        "nombre": "Learn PHP 8 2nd Edition by Steve Prettyman Apress",
+        "isbn": "9781484262399",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/PHP/Learn_PHP_8_2nd_Edition_by_Steve_Prettyman_Apress_9781484262399.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61QzEriv2-L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_103",
+        "nombre": "Learning PHP MySQL & JavaScript 6th Edition Robin Nixon O'Reilly Media",
+        "isbn": "9781492093824",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/PHP/Learning_PHP_MySQL_&_JavaScript_6th_Edition_Robin_Nixon_O'Reilly_Media_9781492093824.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91FlBY2B6yL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_104",
+        "nombre": "Machine Learning Algorithms From Scratch With Python by Jason Brownlee",
+        "isbn": "Sin isbn",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Machine_Learning_Algorithms_From_Scratch_With_Python_by_Jason_Brownlee.pdf",
+        "portada_libro": "https://machinelearningmastery.com/wp-content/uploads/2022/11/MLAS-400.png"
+      },
+      {
+        "id": "art_105",
+        "nombre": "Machine Learning and Data Science Blueprints for Finance by Brad Lookabaugh Hariom Tatsat Sahil Puri OReilly",
+        "isbn": "9781492073055",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Machine_Learning_and_Data_Science_Blueprints_for_Finance_by_Brad_Lookabaugh_Hariom_Tatsat_Sahil_Puri_OReilly_9781492073055.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81c3R3zHCwL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_106",
+        "nombre": "Machine Learning with PyTorch and Scikit Learn Sebastian Raschka Packt",
+        "isbn": "9781801819312",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Machine_Learning_with_PyTorch_and_Scikit_Learn_Sebastian_Raschka_Packt_9781801819312.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/615IIVepfjL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_107",
+        "nombre": "Manning CSS in Depth",
+        "isbn": "9781617293450",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/CSS/Manning_CSS_in_Depth.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71Sz6GNplcL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_108",
+        "nombre": "Micro Frontends in Action by Michael Geers Manning",
+        "isbn": "9781617296871",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Micro_Frontend/Micro_Frontends_in_Action_by_Michael_Geers_Manning_9781617296871.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61ZhXDs0IQL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_109",
+        "nombre": "Natural Language Processing in Action",
+        "isbn": "9781617294631",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Natural_Language_Processing_in_Action.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/815QXT6ThAL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_110",
+        "nombre": "Natural Language Processing Recipes",
+        "isbn": "9781484242667",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Natural_Language_Processing_Recipes.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/815QXT6ThAL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_111",
+        "nombre": "Natural Language Processing with Python and spaCy Yuli Vasiliev No Starch Press",
+        "isbn": "9781718500525",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Natural_Language_Processing_with_Python_and_spaCy_Yuli_Vasiliev_No_Starch_Press_9781718500525.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71ie+27qZqL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_112",
+        "nombre": "Neural Network Projects with Python by James Loy Packt",
+        "isbn": "9781789138900",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Neural_Network_Projects_with_Python_by_James_Loy_Packt_9781789138900.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71crZwUa1XL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_113",
+        "nombre": "New Perspectives on HTML 5 and CSS Comprehensive 8th Edition by Patrick M Carey Cengage",
+        "isbn": "9780357107140",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/HTML/New_Perspectives_on_HTML_5_and_CSS_Comprehensive_8th_Edition_by_Patrick_M_Carey_Cengage_9780357107140.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/51sTu-E1O7L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_114",
+        "nombre": "No Starch Press Cracking Codes with Python",
+        "isbn": "9781593278229",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/No_Starch_Press_Cracking_Codes_with_Python.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81KOL4RYF6L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_115",
+        "nombre": "No Starch Press Rootkits and Bootkits",
+        "isbn": "9781593277161",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Hacking/No_Starch_Press_Rootkits_and_Bootkits.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81qfjaThHzL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_116",
+        "nombre": "Object Design Style Guide",
+        "isbn": "9781617296857",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Object_Oriented_Programming/Object_Design_Style_Guide.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81+0tnL3m6L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_117",
+        "nombre": "OReilly Designing Data Intensive Applications",
+        "isbn": "9781449373320",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Data_Intensive_Apps/OReilly_Designing_Data_Intensive_Applications.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91JAIKQUkYL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_118",
+        "nombre": "OReilly Mastering Regular Expressions 3rd Edition",
+        "isbn": "0596528124",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Regular_Expressions/OReilly_Mastering_Regular_Expressions_3rd_Edition.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91Xts3KC7PL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_119",
+        "nombre": "Packt Hands On Blockchain for Python Developers",
+        "isbn": "9781788627856",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Packt_Hands_On_Blockchain_for_Python_Developers.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81hDfkbrgiL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_120",
+        "nombre": "Packt Hands On Dark Web Analysis",
+        "isbn": "9781789133363",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/DarkWeb/Packt_Hands_On_Dark_Web_Analysis.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61TGTESjoqL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_121",
+        "nombre": "Packt Mastering GUI Programming with Python",
+        "isbn": "9781789612905",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Packt_Mastering_GUI_Programming_with_Python.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71AcUfJQsKL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_122",
+        "nombre": "Packt Mastering Yii",
+        "isbn": "9781785882425",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Yii_Framework/Packt_Mastering_Yii.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71BV3cd69JL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_123",
+        "nombre": "Packt Web Application Development with Yii2 and PHP",
+        "isbn": "9781783981885",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Yii_Framework/Packt_Web_Application_Development_with_Yii2_and_PHP.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61A3+Qn-yBL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_124",
+        "nombre": "Packt Yii Project Blueprints",
+        "isbn": "9781783287734",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Yii_Framework/Packt_Yii_Project_Blueprints.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91RDH0EO7xL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_125",
+        "nombre": "PHP and MySQL Novice to Ninja 7th Edition Tom Butler",
+        "isbn": "9781925836462",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/PHP/PHP_and_MySQL_Novice_to_Ninja_7th_Edition_Tom_Butler_9781925836462_SitePoint.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61X13vqRqqL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_126",
+        "nombre": "PHP Microservices by Carlos Perez Sanchez Pablo Solar Vilarino Packt",
+        "isbn": "9781787125377",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/PHP/PHP_Microservices_by_Carlos_Perez_Sanchez_Pablo_Solar_Vilarino_Packt_9781787125377.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81pfioFMl2L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_127",
+        "nombre": "Python Crash Course 3rd Edition Eric Matthes No Starch Press",
+        "isbn": "9781718502703",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Python_Crash_Course_3rd_Edition_Eric_Matthes_No_Starch_Press_9781718502703.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81py-nCTfrL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_128",
+        "nombre": "Python Distilled David Beazley Addison Wesley",
+        "isbn": "9780134173276",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Python_Distilled_David_Beazley_Addison_Wesley_9780134173276.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/617CuuS8pvL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_129",
+        "nombre": "Python for Finance Mastering Data Driven Finance 2nd Edition by Yves Hilpisch O'Reilly",
+        "isbn": "9781492024330",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Python_for_Finance_Mastering_Data_Driven_Finance_2nd_Edition_by_Yves_Hilpisch_O'Reilly_9781492024330.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/919ecXlVukL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_130",
+        "nombre": "React and React Native 4th Edition Boduch Sakhniuk Derks Packt",
+        "isbn": "9781803231280",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/React/React_and_React_Native_4th_Edition_Boduch_Sakhniuk_Derks_Packt_9781803231280.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71FkBVXE4oL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_131",
+        "nombre": "React Projects 2nd Edition Roy Derks Packt",
+        "isbn": "9781801070638",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/React/React_Projects_2nd_Edition_Roy_Derks_Packt_9781801070638.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61f3atnSHcL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_132",
+        "nombre": "Refactoring at Scale",
+        "isbn": "9781492075530",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Refactoring/Refactoring_at_Scale_9781492075530.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91DSxEUgzQL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_133",
+        "nombre": "Refactoring Improving the Design of Existing Code 2nd edition",
+        "isbn": "9780134757599",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Refactoring/Refactoring_Improving_the_Design_of_Existing_Code_2nd_edition.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71e6ndHEwqL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_134",
+        "nombre": "Responsive Web Design with HTML5 and CSS 4th Edition Ben Frain Packt",
+        "isbn": "9781803242712",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Responsive_Design/Responsive_Web_Design_with_HTML5_and_CSS_4th_Edition_Ben_Frain_Packt_9781803242712.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61wpcZO+S2L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_135",
+        "nombre": "Search Patterns O'Reilly",
+        "isbn": " 9780596802271",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Psicologia_Programador/Search_Patterns_O'Reilly.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91XMailFaIL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_136",
+        "nombre": "Secure by Design",
+        "isbn": "9781617294358",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Security/Secure_by_Design.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71cD+Dr8WbL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_137",
+        "nombre": "Serious Cryptography Jean Philippe Aumasson No Starch Press",
+        "isbn": "1593278268",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Cryptography/Serious_Cryptography_Jean_Philippe_Aumasson_No_Starch_Press_1593278268.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/91leqBbiQAL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_138",
+        "nombre": "Single Page Web Applications",
+        "isbn": "9781617290756",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Single_Page_Applications/Single_Page_Web_Applications.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71sst4NqsrL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_139",
+        "nombre": "Solving Identity Management in Modern Applications",
+        "isbn": "9781484250952",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Security/Solving_Identity_Management_in_Modern_Applications.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61W1r7VehcL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_140",
+        "nombre": "Storey D Pro CSS3 Animation",
+        "isbn": "Sin isbn",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/CSS/Storey_D_Pro_CSS3_Animation.pdf",
+        "portada_libro": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjb4wS3Kg63AFgPTi8cBRN5pyal7YBN6hFg9qEm86ZBtBuY6LO"
+      },
+      {
+        "id": "art_141",
+        "nombre": "Supercharged Python Take Your Code to the Next Level Brian Overland John Bennett Addison Wesley",
+        "isbn": "0135159946",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/Supercharged_Python_Take_Your_Code_to_the_Next_Level_Brian_Overland_John_Bennett_Addison_Wesley_0135159946.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/613LIxBeZ2L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_142",
+        "nombre": "The Design of Web APIs",
+        "isbn": "9781617295102",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/APIs/The_Design_of_Web_APIs.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61wI3-7Q0uL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_143",
+        "nombre": "The Object Oriented Thought Process 5th Edition",
+        "isbn": "9780135181966",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Object_Oriented_Programming/The_Object_Oriented_Thought_Process_5th_Edition.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/81FU6XvWUHL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_144",
+        "nombre": "The Python Workshop 2nd Edition Corey Wade Packt",
+        "isbn": "9781804610619",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Python/The_Python_Workshop_2nd_Edition_Corey_Wade_Packt_9781804610619.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61XPqZQRv5L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_145",
+        "nombre": "The TypeScript Workshop Ben Grynhaus Packt",
+        "isbn": "9781838828493",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/TypeScript/The_TypeScript_Workshop_Ben_Grynhaus_Packt_9781838828493.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/71OkIm-mbzL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "art_146",
+        "nombre": "Web Components in Action by Ben Farrell Manning",
+        "isbn": "9781617295775",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Web_Components/Web_Components_in_Action_by_Ben_Farrell_Manning_9781617295775.pdf",
+        "portada_libro": "https://m.media-amazon.com/images/I/61pTA2rYk0L._AC_UY327_FMwebp_QL65_.jpg"
       }
     ]
 }
