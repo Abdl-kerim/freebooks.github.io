@@ -17,7 +17,7 @@ d.querySelector('#input').addEventListener('click', () => {
         }
     } else {
         d.querySelector('#body').style.background = '#333';
-        d.querySelector('#header').style.background = '#004867';
+        d.querySelector('#header').style.background = 'rgb(164 164 164 / 31%)';
         d.querySelector('#footer').style.background = '#6d655e';
         const a_123 = d.querySelectorAll('.h2_art');
         const a_1234 = d.querySelectorAll('.links');
