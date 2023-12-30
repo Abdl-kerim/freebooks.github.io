@@ -36,7 +36,7 @@ let obj;
 const xmlhttp = new XMLHttpRequest();
 xmlhttp.onload = function() {
   obj = JSON.parse(this.responseText);
-    for (let ez = 0; ez < obj.articulos.length; ez++){
+    for (let ez = 0; ez < obj.totalResults; ez++){
         const contenedor_main = d.querySelector('#cont');
 
         const crea_articulo = d.createElement('article');
