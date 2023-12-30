@@ -54,7 +54,7 @@ xmlhttp.onload = function() {
             d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('class', 'p_arts');
         const crea_img = d.createElement('img');
             d.querySelector(`#i_${ez}`).appendChild(crea_img);
-            d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('src', './assets/portada/icono_libros.svg');
+            d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('src', `${obj.articulos[ez].portada_libro}`);
             d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('class', 'imagen_art');
             d.querySelector(`#i_${ez}`).lastElementChild.setAttribute('crossorigin', 'anonymous');
     
