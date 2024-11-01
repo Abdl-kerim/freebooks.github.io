@@ -1394,6 +1394,20 @@
         "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Other_Injection_Attacks.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_198",
+        "nombre": "Win32 Assembly Components",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Win32_Assembly_Components.pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_199",
+        "nombre": "Win32 Assembly Components",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Win32_Assembly_Components.pdf",
+        "portada_libro": ""
       }
     ]
 }
