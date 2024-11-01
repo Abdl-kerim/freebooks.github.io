@@ -1478,6 +1478,20 @@
         "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Security_in_VoIP_Telephony_Systems.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_210",
+        "nombre": "Reversing Encrypted Callbacks and COM Interfaces",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_211",
+        "nombre": "Reversing Encrypted Callbacks and COM Interfaces",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
+        "portada_libro": ""
       }
     ]
 }
