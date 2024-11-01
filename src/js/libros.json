@@ -1436,6 +1436,20 @@
         "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/IP_Port_Numbers.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_204",
+        "nombre": "Pentest Standard",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/pentest_standard.pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_205",
+        "nombre": "Pentest Accountability By Analyzing Network Traffic & Network Traffic Metadata",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Pentest_Accountability_By_Analyzing_Network_Traffic_&_Network_Traffic_Metadata_2018.pdf",
+        "portada_libro": ""
       }
     ]
 }
