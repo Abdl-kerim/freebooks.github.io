@@ -1415,6 +1415,20 @@
         "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/known_attacks_against_smartcards.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_201",
+        "nombre": "The FusionAuth Team Breaking down JSON Web Tokens From pros and cons to building and revoking",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/The_FusionAuth_Team_Breaking_down_JSON_Web_Tokens_From_pros_and_cons_to_building_and_revoking_(2022).pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_202",
+        "nombre": "Understanding Windows Shellcode",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/win32_shellcode.pdf",
+        "portada_libro": ""
       }
     ]
 }
