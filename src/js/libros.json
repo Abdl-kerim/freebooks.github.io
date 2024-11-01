@@ -1450,6 +1450,13 @@
         "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Pentest_Accountability_By_Analyzing_Network_Traffic_&_Network_Traffic_Metadata_2018.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_206",
+        "nombre": "HTTP Fingerprinting",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/HTTP_Fingerprinting.pdf",
+        "portada_libro": ""
       }
     ]
 }
