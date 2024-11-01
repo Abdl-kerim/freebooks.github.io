@@ -1404,9 +1404,16 @@
       },
       {
         "id": "art_199",
-        "nombre": "Win32 Assembly Components",
+        "nombre": "Macro Reliability in Win32 Exploits",
         "isbn": "",
-        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Win32_Assembly_Components.pdf",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Macro_Reliability_in_Win32_Exploits.pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_200",
+        "nombre": "known attacks against smartcards",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/known_attacks_against_smartcards.pdf",
         "portada_libro": ""
       }
     ]
