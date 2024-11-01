@@ -1377,8 +1377,15 @@
       {
         "id": "art_195",
         "nombre": "HTTP Request Smuggling",
-        "isbn": "9781975924584",
+        "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/HTTP_Request_Smuggling.pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_195",
+        "nombre": "How To Break MD5 And Other Hash Functions",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/How_To_Break_MD5_And_Other_Hash_Functions.pdf",
         "portada_libro": ""
       }
     ]
