@@ -1492,6 +1492,20 @@
         "isbn": "",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Reversing_Encrypted_Callbacks_and_COM_Interfaces.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_212",
+        "nombre": "Mastering Nmap Scripting Engine",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/Mastering_Nmap_Scripting_Engine.pdf",
+        "portada_libro": ""
+      },
+      {
+        "id": "art_213",
+        "nombre": "The Command Line Linux",
+        "isbn": "",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/The_Command_Line_Linux.pdf.pdf",
+        "portada_libro": ""
       }
     ]
 }
