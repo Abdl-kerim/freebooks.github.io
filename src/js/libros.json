@@ -1373,6 +1373,13 @@
         "isbn": "9781975924584",
         "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/Cryptography/Hash_Crack_Password_Cracking_Manual_2017.pdf",
         "portada_libro": ""
+      },
+      {
+        "id": "art_195",
+        "nombre": "HTTP Request Smuggling",
+        "isbn": "9781975924584",
+        "url": "https://github.com/Abdl-kerim/abdel-kerim.github.io/blob/main/uncatalogued/HTTP_Request_Smuggling.pdf",
+        "portada_libro": ""
       }
     ]
 }
